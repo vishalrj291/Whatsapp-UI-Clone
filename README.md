@@ -21,11 +21,7 @@ A fully responsive WhatsApp Web UI clone built using pure HTML and CSS. This pro
 
 ---
 
-## 📸 Preview
 
-(Add screenshots here once you upload them)
-
----
 
 ## 📂 Project Structure
 
@@ -70,19 +66,19 @@ whatsapp-ui-clone/
 
 1. Clone the repository
 
-   ```
-   git clone https://github.com/your-username/whatsapp-ui-clone.git
-   ```
+ 
+  https://github.com/vishalrj291/Whatsapp-UI-Clone.git
+ 
 
 2. Open `index.html` in your browser
 
----
+
 
 ## 📬 Connect With Me
 
 If you have feedback or suggestions, feel free to reach out or contribute!
 
----
+
 
 ## ⭐ Don't Forget
 
