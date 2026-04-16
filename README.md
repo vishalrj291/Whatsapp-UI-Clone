@@ -71,7 +71,7 @@ whatsapp-ui-clone/
 
 2. Open `index.html` in your browser
 3. Deployment Link
-   https://whatsapp-ui-clone-one.vercel.app/
+   https://whatsapp-ui-clone-9uuq.vercel.app/
 
 
 
