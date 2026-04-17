@@ -9,7 +9,7 @@ A fully responsive WhatsApp Web UI clone built using pure HTML and CSS. This pro
 * 📌 Clean and modern UI inspired by WhatsApp Web
 * 📱 Fully responsive design (works on desktop, tablet, and mobile)
 * 🎨 Styled using pure CSS (no frameworks used)
-* 🧱 Structured layout using Flexbox/Grid
+* 🧱 Structured layout using Flexbox
 * 🔍 Pixel-perfect attention to spacing and alignment
 
 ---
@@ -23,16 +23,7 @@ A fully responsive WhatsApp Web UI clone built using pure HTML and CSS. This pro
 
 
 
-## 📂 Project Structure
 
-
-whatsapp-ui-clone/
-│
-├── index.html
-├── style.css
-└── whatsApp/
-    ├── images/
-    └── icons/
 
 
 
@@ -43,15 +34,15 @@ whatsapp-ui-clone/
 * Handling responsiveness using **media queries**
 * Improving design accuracy by replicating existing apps
 
----
+
 
 ## ⚡ Challenges Faced
 
 * Maintaining consistent spacing and alignment
 * Making the layout responsive across all devices
-* Replicating WhatsApp’s sidebar and chat layout accurately
 
----
+
+
 
 ## 🧠 Future Improvements
 
@@ -59,7 +50,7 @@ whatsapp-ui-clone/
 * Implement backend for real-time messaging
 * Improve UI with micro-interactions
 
----
+
 
 ## 📌 How to Run
 
@@ -69,8 +60,8 @@ whatsapp-ui-clone/
   https://github.com/vishalrj291/Whatsapp-UI-Clone.git
  
 
-2. Open `index.html` in your browser
-3. Deployment Link
+
+ 2. Deployment Link
    https://whatsapp-ui-clone-9uuq.vercel.app/
 
 
