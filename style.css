@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* overflow-x: hidden; */
+   
     font-family: "Helvetica Neue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 }
@@ -57,7 +57,7 @@
 }
 
 .Features > img {
-    /* rotate: -90deg; */
+   
     transform: rotate(-90deg);
     width: 10px;
     height: 15px;
@@ -119,7 +119,7 @@
     width: 500px;
     height: 500px;
     border-radius: 50%;
-    /* scale: 1.3 ; */
+    
     z-index: -1;    
     position: absolute;
     content: "";
@@ -142,10 +142,7 @@
 .btn:hover{
     cursor: pointer;
 }
-/* .btn:hover{
-    background-color: white;
-    transition: 0.7s;
-} */
+
 
 
 
@@ -163,7 +160,7 @@
     overflow: hidden;
     display: flex;
     justify-content: space-around;
-    /* padding: 0 100px; */
+   
     align-items: center;
     border-radius: 25px;
     background-image: url(whatsApp/MaaBeti.png);
@@ -392,16 +389,14 @@
 }
 .learnMore {
     position: relative;
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
+   
 }
 .learnMore > span {
-    /* width: 300px; */
+    
     display: inline-block;
     padding-top: 40px;
     font-size: 16px;
-    /* text-decoration: 2px underline #25d366 ; */
+    
 }
 
 .learnMore::before{
@@ -478,8 +473,7 @@
     display: flex;
     flex-direction: column;
     gap: 30px;
-    /* justify-content: flex-start; */
-    /* align-items: flex-start; */
+ 
 }
 .up2 > p,.up3 > p,.up4 > p,.up5 > p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -583,11 +577,7 @@ select {
 }
 
 
-/* Mobile: 320px–480px
-Tablets: 481px–768px
-Small screens: 769px–1024px
-Large screens: 1025px–1200px
-Extra large screens: 1201px and above */
+
 
 .footer2{
     display: none;
